@@ -1,0 +1,2 @@
+- Start with `adk web`.
+- Add your api key using `.env` inside the `multi_tool_agent/.env` and name is `GOOGLE_API_KEY`.
